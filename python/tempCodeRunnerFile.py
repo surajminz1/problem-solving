@@ -1,1 +1,1 @@
-yield 3
+events

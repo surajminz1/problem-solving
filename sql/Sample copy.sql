@@ -1,3 +1,4 @@
+-- Query to find out where the query is broken
 SELECT
     *
 FROM
